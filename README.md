@@ -20,8 +20,20 @@ Taking local repo and pushing it to online version in named branch (-u = upstrea
 git push -u origin master
 ```
 
+### Branch
+Branch details
+```
+git branch
+```
+
 ### New branch
 Create a new local repo (can be pushed as a new branch to origin by pushing and naming new branch)
 ```
 git checkout -b newBranchName
+```
+
+### Change branch
+Switch to branch
+```
+git checkout newBranchName
 ```
