@@ -1,5 +1,5 @@
 # gitCheatSheet
-A repo of git commands to remember
+A repo of git commands I have used and are useful to remember
 
 
 ### Add
