@@ -1,2 +1,27 @@
 # gitCheatSheet
 A repo of git commands to remember
+
+
+### Add
+Adding content to be commited to local repo
+'''
+git add .
+'''
+
+### Commit
+Taking added content and saving to local repo with a message
+'''
+git commit -m 'this is a message'
+'''
+
+### Push
+Taking local repo and pushing it to online version in named branch (-u = upstream, origin = online version)
+'''
+git push -u origin master
+'''
+
+### New branch
+Create a new local repo (can be pushed as a new branch to origin by pushing and naming new branch)
+'''
+git checkout -b newBranchName
+'''
