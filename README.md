@@ -37,3 +37,13 @@ Switch to branch
 ```
 git checkout newBranchName
 ```
+
+
+### New Repo
+Create repo on GitHub
+Navigate to folder
+Follow instructions on Github
+
+
+
+
